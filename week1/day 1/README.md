@@ -89,7 +89,7 @@ It transforms RTL into a gate-level netlist and can map designs to a PDK’s sta
    !vim good_mux_netlist.v
    ```
 5. Output of Netlist:
-[good_mux_netlist](output_day_1/good_mux_netlist.png])
+[good_mux_netlist](output_day_1/good_mux_netlist.png)
 
 ---
 
