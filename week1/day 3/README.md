@@ -54,7 +54,7 @@ This involves optimizing logic that does not contain memory elements, where the 
    show
    ```
 3. output :
-[opt_check2_synthesis](output_day_3/opt_check2.png])
+[opt_check2_synthesis](output_day_3/opt_check2.png)
 
 ### Lab on opt_check3
 1. open yosys
