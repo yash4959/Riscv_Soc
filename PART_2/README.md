@@ -96,7 +96,7 @@ This view inspects the `L1_CPU_dmem` module, which is the Level 1 Data Memory in
 
 ---
 
-![pre_synthesis_dac_gtkwave][output_week2_part2/pre_synthesis_dac_gtkwave.png]
+![pre_synthesis_dac_gtkwave](output_week2_part2/pre_synthesis_dac_gtkwave.png)
 
 ## Waveform Analysis
 
