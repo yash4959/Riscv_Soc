@@ -209,7 +209,8 @@ iverilog -DFUNCTIONAL -DUNIT_DELAY=#1 -o simulation/post_synth_sim.out src/gls_m
 ### Output GTKWave
 
 ![post_synthesis_uut_gtkwave](output_week2_part2/post_synthesis_uut_gtkwave.png)
-![post_synthesis_vsdbabysoc_gtkwave](output_week1_part_1/post_synthesis_vsdbabysoc_gtkwave.png)
+
+![post_synthesis_vsdbabysoc_gtkwave](output_week1_part_2/post_synthesis_vsdbabysoc_gtkwave.png)
 
 ## 🔑 Key Takeaways
 - Yosys converts RTL design into a gate-level netlist using standard cell libraries.  
