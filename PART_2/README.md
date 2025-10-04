@@ -82,7 +82,7 @@ cd output/pre_synth_sim
 gtkwave pre_synth_sim.vcd
 ```
 ### output GTKWaves
-![pre_synthesis_uut_gtkwave][output_week2_part2/pre_synthesis_uut_gtkwave.png]
+[pre_synthesis_uut_gtkwave](output_week2_part2/pre_synthesis_uut_gtkwave.png)
 
 ## Waveform Analysis
 
