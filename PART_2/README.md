@@ -82,7 +82,7 @@ cd output/pre_synth_sim
 gtkwave pre_synth_sim.vcd
 ```
 ### output GTKWaves
-[pre_synthesis_uut_gtkwave](output_week2_part2/pre_synthesis_uut_gtkwave.png)
+![pre_synthesis_uut_gtkwave](output_week2_part2/pre_synthesis_uut_gtkwave.png)
 
 ## Waveform Analysis
 
@@ -110,7 +110,7 @@ This view focuses on the `dac` module to confirm it correctly receives data from
 
 ---
 
-![pre_synthesis_pll_gtkwave][output_week2_part2/pre_synthesis_pll_gtkwave.png]
+![pre_synthesis_pll_gtkwave](output_week2_part2/pre_synthesis_pll_gtkwave.png)
 
 ## Waveform Analysis
 
@@ -181,12 +181,12 @@ stat -liberty src/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 
 ## Output photo
 
-![vsdbabysoc_rtl][output_week2_part2/vsdbabysoc_rtl.png]
-![netlist_clk_gate][output_week2_part2/netlist_clk_gate.png]
-![output_synthesis][output_week2_part2/output_synthesis.png]
-![printing_stestices_1][output_week2_part2/printing_stestices_1.png]
-![printing_stestices_2][output_week2_part2/printing_stestices_2.png]
-![printing_stestices_3][output_week2_part2/printing_stestices_3.png]
+![vsdbabysoc_rtl](output_week2_part2/vsdbabysoc_rtl.png)
+![netlist_clk_gate](output_week2_part2/netlist_clk_gate.png)
+![output_synthesis](output_week2_part2/output_synthesis.png)
+![printing_stestices_1](output_week2_part2/printing_stestices_1.png)
+![printing_stestices_2](output_week2_part2/printing_stestices_2.png)
+![printing_stestices_3](output_week2_part2/printing_stestices_3.png)
 
 ##  Post-Synthesis Verification (GLS)
 
@@ -208,8 +208,8 @@ iverilog -DFUNCTIONAL -DUNIT_DELAY=#1 -o simulation/post_synth_sim.out src/gls_m
 
 ### Output GTKWave
 
-![post_synthesis_uut_gtkwave][output_week2_part2/post_synthesis_uut_gtkwave.png]
-![post_synthesis_vsdbabysoc_gtkwave][output_week1_part_1/post_synthesis_vsdbabysoc_gtkwave.png]
+![post_synthesis_uut_gtkwave](output_week2_part2/post_synthesis_uut_gtkwave.png)
+![post_synthesis_vsdbabysoc_gtkwave](output_week1_part_1/post_synthesis_vsdbabysoc_gtkwave.png)
 
 ## 🔑 Key Takeaways
 - Yosys converts RTL design into a gate-level netlist using standard cell libraries.  
