@@ -33,7 +33,7 @@ This repo documents my **week-by-week journey** with learnings, tasks, and proje
 |------|------------|--------| ---- |
 | Week 0 | ⚙️ Environment Setup & Tools | ✅ Completed | [WEEK-0](https://github.com/yash4959/Riscv_Soc/tree/Week-0) |
 | Week 1 | 🔧 RTL Synthesis & Gate-Level Simulation | ✅ Completed | [WEEK-1](https://github.com/yash4959/Riscv_Soc/tree/Week-1) |
-| Week 2 | 🏗️ Research BabySoc Fundamentals and functional modelling  | ✅ Completed | [WEEK-3](https://github.com/yash4959/Riscv_Soc/tree/Week-3) |
+| Week 2 | 🏗️ Research BabySoc Fundamentals and functional modelling  | ✅ Completed | [WEEK-2](https://github.com/yash4959/Riscv_Soc/tree/Week-2) |
 | Week 3 | 🧮 Timing Analysis & Optimization | ⏳ In Progress |
 | Week 4 | 🗂️ Floorplanning & Placement | ⏳ Upcoming | 
 | Week 5 | 🔄 Clock Tree Synthesis (CTS) | ⏳ Upcoming | 
