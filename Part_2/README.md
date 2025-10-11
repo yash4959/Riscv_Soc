@@ -79,7 +79,7 @@ Required Time = Capture Edge + Clock Path Delay (capture) - Tsetup
 - **For Hold:**
 Required Time = Capture Edge + Clock Path Delay (capture) + Thold
 
-![hold_setup_time](photos_week3_part2/photos_6.jpeg)
+![hold_setup_time](photos_week3_part2/photo_6.jpeg)
 
 ---
 
@@ -222,7 +222,7 @@ Latches are **level-sensitive memory elements** that store a single bit of data.
 > 🏭 This process is a cornerstone of **semiconductor fabrication**, directly impacting transistor speed and reliability.
 
 ---
-![MOSFET_structure](photos_wee3_part2/photo_2.jpeg)
+![MOSFET_structure](photos_week3_part2/photo_2.jpeg)
 
 ## 🕸️ 3. Directed Acyclic Graph (DAG) for Timing Analysis
 
