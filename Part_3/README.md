@@ -37,7 +37,7 @@ To run a docker container using the OpenSTA image, use the -v option to docker t
 docker run -i -v $HOME:/data opensta
 ```
 
-![installation_opensta](output_week3_part_3/installation_opensta.png)
+![installation_opensta](output_week3_part3/installation_opensta.png)
 
 You now have OpenSTA installed and running inside a Docker container. After successful installation, you will see the % prompt—this indicates that the OpenSTA interactive shell is ready for use.
 
@@ -401,7 +401,7 @@ This should allow OpenSTA to parse the Liberty file without throwing syntax erro
 
 After fixing the Liberty file comment syntax as shown above, you can rerun the script to perform complete timing analysis for VSDBabySoC:
 
-![VsdBabySoc_timing_analysis_basic](output_week3_part_3/VsdBabySoc_timing_analysis_basic.png)
+![VsdBabySoc_timing_analysis_basic](output_week3_part3/VsdBabySoc_timing_analysis_basic.png)
 
 ### VSDBabySoC PVT Corner Analysis (Post-Synthesis Timing)
 Static Timing Analysis (STA) is performed across various **PVT (Process-Voltage-Temperature)** corners to ensure the design meets timing requirements under different conditions.
