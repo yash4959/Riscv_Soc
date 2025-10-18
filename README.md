@@ -13,7 +13,7 @@ SPICE helps engineers understand nonlinear device characteristics such as those 
 Its models are built using mathematical equations derived from semiconductor device physics, giving accurate and realistic circuit predictions.
 
 ---
-![Power_aware_cts](week4_otput/power_aware_cts.jpeg
+![Power_aware_cts](output_week4/power_aware_cts.jpeg
 )
 ### 1.2 Basic Element in Circuit Design – NMOS
 
@@ -31,8 +31,8 @@ This creates a conductive channel that allows electrons to move from the drain t
 In NMOS devices, the current flow is due to electrons (majority carriers), and the strength of conduction is controlled by the applied gate voltage.
 
 ---
-![NMOS_Basic](week4_output/nmos_basic.jpeg)
-![NMOS_Basic](week4_output/nmos_basic_1.jpeg)
+![NMOS_Basic](output_week4/nmos_basic.jpeg)
+![NMOS_Basic](output_week4/nmos_basic_1.jpeg)
 
 ### 1.3 Strong Inversion and Threshold Voltage
 
@@ -45,8 +45,8 @@ In this region, the drain current increases exponentially with gate voltage but 
 Thus, Vth marks the transition between OFF and ON states of the transistor.
 
 ---
-![Threshold_voltage](week4_output/threshold_voltage_basic.jpeg)
-![Threshold_voltage_ewuation](week4_output/threshold_voltage_equation.jpeg)
+![Threshold_voltage](output_week4/threshold_voltage_basic.jpeg)
+![Threshold_voltage_ewuation](output_week4/threshold_voltage_equation.jpeg)
 
 ### 1.4 Threshold Voltage with Positive Substrate Potential
 
@@ -117,8 +117,8 @@ Beyond this point, increasing Vds further does not significantly increase the cu
 This marks the transition from the linear to the **saturation region**.
 
 ---
-![Pinch_off](week4_output/pinch_off.jpeg)
-![Pinch_off](week4_output/pinch_off_1.jpeg)
+![Pinch_off](output_week4/pinch_off.jpeg)
+![Pinch_off](output_week4/pinch_off_1.jpeg)
 
 ### 2.6 Drain Current Model for Saturation Region
 
@@ -201,8 +201,8 @@ ngspice day1_nfet_idvds_L2_W5.spice
 plot -vdd#branch
 ```
 ### output
-![spice_netlist_day1](week4_output/spice_netlist_day1.png)
-![ngspice_w5_l2](week4_output/ngspice_w5_l2.png)
+![spice_netlist_day1](output_week4/spice_netlist_day1.png)
+![ngspice_w5_l2](output_week4/ngspice_w5_l2.png)
 
 ## 🧩 Summary Table
 
