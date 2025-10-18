@@ -35,8 +35,8 @@ This repo documents my **week-by-week journey** with learnings, tasks, and proje
 | Week 1 | 🔧 RTL Synthesis & Gate-Level Simulation | ✅ Completed | [WEEK-1](https://github.com/yash4959/Riscv_Soc/tree/Week-1) |
 | Week 2 | 🏗️ Research BabySoc Fundamentals and functional modelling  | ✅ Completed | [WEEK-2](https://github.com/yash4959/Riscv_Soc/tree/Week-2) |
 | Week 3 | 🧮 Timing Analysis & Optimization | ✅ Completed | [WEEK-3](https://github.com/yash4959/Riscv_soc/tree/Week-3) |
-| Week 4 | 🗂️ Floorplanning & Placement | ⏳ In Progress | 
-| Week 5 | 🔄 Clock Tree Synthesis (CTS) | ⏳ Upcoming | 
+| Week 4 | 🗂️ Floorplanning & Placement | ✅ Completed | [WEEK-4](https://github.com/yash4959/Riscv_Soc/tree/Week-4) |
+| Week 5 | 🔄 Clock Tree Synthesis (CTS) |⏳ In Progress| 
 | Week 6 | 🚦 Routing & DRC/LVS Checks | ⏳ Upcoming | 
 | Week 7 | ⚡ Power Planning & IR Drop | ⏳ Upcoming |
 | Week 8 | 🛠️ Sign-off (STA, Antenna, ERC) | ⏳ Upcoming | 
