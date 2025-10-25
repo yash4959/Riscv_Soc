@@ -63,7 +63,7 @@ openroad -help
 
 ### Terminal output photos
 
-![git repo clone](output_wekk5/openroad_git_clone.png)
+![git repo clone](output_week5/openroad_git_clone.png)
 ![openroad_setup](output_week5/openroad_setup.png)
 ![openroad_build](output_week5/openroad_build.png)
 
