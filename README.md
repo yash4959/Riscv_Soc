@@ -36,12 +36,12 @@ This repo documents my **week-by-week journey** with learnings, tasks, and proje
 | Week 2 | 🏗️ Research BabySoc Fundamentals and functional modelling  | ✅ Completed | [WEEK-2](https://github.com/yash4959/Riscv_Soc/tree/Week-2) |
 | Week 3 | 🧮 Timing Analysis & Optimization | ✅ Completed | [WEEK-3](https://github.com/yash4959/Riscv_soc/tree/Week-3) |
 | Week 4 | 🗂️ Floorplanning & Placement | ✅ Completed | [WEEK-4](https://github.com/yash4959/Riscv_Soc/tree/Week-4) |
-| Week 5 | 🔄 Clock Tree Synthesis (CTS) |⏳ In Progress| 
-| Week 6 | 🚦 Routing & DRC/LVS Checks | ⏳ Upcoming | 
-| Week 7 | ⚡ Power Planning & IR Drop | ⏳ Upcoming |
-| Week 8 | 🛠️ Sign-off (STA, Antenna, ERC) | ⏳ Upcoming | 
-| Week 9 | 📦 Integration & Chip Assembly | ⏳ Upcoming | 
-| Week 10 | 🎉 Final GDSII & Tapeout Submission | ⏳ Upcoming |
+| Week 5 | 🔄 Clock Tree Synthesis (CTS) |⏳ In Progress| [WEEK-5](https://github.com/yash4959/Riscv_Soc/tree/Week-5) |
+| Week 6 | 🚦 Routing & DRC/LVS Checks | ⏳ Upcoming | [WEEK-6](https://github.com/yash4959/Riscv_Soc/tree/Week-6)  |
+| Week 7 | ⚡ Power Planning & IR Drop | ⏳ Upcoming | [WEEK-7](https://github.com/yash4959/Riscv_Soc/tree/Week-7)  |
+| Week 8 | 🛠️ Sign-off (STA, Antenna, ERC) | ⏳ Upcoming | [WEEK-8](https://github.com/yash4959/Riscv_Soc/tree/Week-8)  |
+| Week 9 | 📦 Integration & Chip Assembly | ⏳ Upcoming | [WEEK-9](https://github.com/yash4959/Riscv_Soc/tree/Week-9)  |
+| Week 10 | 🎉 Final GDSII & Tapeout Submission | ⏳ Upcoming |  [WEEK-10](https://github.com/yash4959/Riscv_Soc/tree/Week-10)  |
 
 ---
 
